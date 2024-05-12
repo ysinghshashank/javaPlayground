@@ -1,3 +1,3 @@
 # javaPlayground
-This Repo is for play Purpose
+This Repo is for play Purpose.
 
